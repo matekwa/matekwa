@@ -106,21 +106,6 @@
 
 </div>
 
-## 🌟 SIGNATURE PROJECTS
-
-<div>
-  <table>
-    <tr>
-      <td width="60%">
-        <h3><a href="https://skyfalke.com"> Skyfalke Platform</a></h3>
-        <p>Africa's first carbon-neutral cloud hosting solution with renewable energy offsets. Features include automated scaling, container orchestration, and AI-powered resource optimization.</p>
-        <p><strong>Tech:</strong> Node.js, React, Docker, Kubernetes, Daraje API, Vite, Redis, Laravel</p>
-      </td>
-    </tr>
-    <tr>
-  </table>
-</div>
-
 ## 🌍 IMPACT & ACHIEVEMENTS
 
 <div align="center">
