@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
-## 🌿 MISSION
+##  MISSION
 
 > *"Building technology that harmonizes with nature, empowers communities, and scales with conscious purpose."*
 
