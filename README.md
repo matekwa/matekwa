@@ -2,7 +2,6 @@
   
 # MATEKWA RONALD
 
-<img src="https://img.shields.io/badge/Founder-Skyfalke Cloud-4CAF50?style=for-the-badge&labelColor=1E293B" alt="Founder & CEO Badge"/>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Entrepreneur;Environmental+Advocate;Cloud+Solutions+Architect;AI+Integration+Specialist" alt="Typing SVG" />
@@ -53,7 +52,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=matekwa&show_icons=true&theme=vue-dark&bg_color=1E293B&text_color=ffffff&icon_color=4CAF50&title_color=4CAF50&border_color=1E293B&count_private=true&hide_border=false" width="45%" alt="Matekwa's Stats" />
 
 - 👨‍💻 **Tech Entrepreneur** with expertise in modern web architecture & cloud infrastructure
-- 🌐 **Founder of Skyfalke** – Kenya's first eco-conscious cloud hosting provider
 - 🔍 **Cloud Solutions Architect** specializing in sustainable digital transformation
 - 🧩 **Full-Stack Developer** focused on React, Node.js & cloud-native technologies
 - 💚 **Environmental Advocate** integrating green practices into tech business models
