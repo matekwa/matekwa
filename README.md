@@ -10,7 +10,7 @@
 <p>
   <a href="https://linkedin.com/in/matekwaronald"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/matekwaronald"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://cloud.skyfalke.com"><img src="https://img.shields.io/badge/skyfalke.com-2F3741?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://skyfalke.com"><img src="https://img.shields.io/badge/Skyfalke-2F3741?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
   <a href="mailto:info@skyfalke.com"><img src="https://img.shields.io/badge/info@skyfalke.com-4CAF50?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -28,7 +28,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">🌱 SUSTAINABILITY</h3>
-      <p align="center">Pioneering carbon-neutral hosting solutions and green tech practices in Kenya's digital landscape</p>
+      <p align="center">Pioneering carbon-conscious hosting solutions and green tech practices in Kenya's digital landscape</p>
     </td>
     <td width="50%">
       <h3 align="center">🧠 INNOVATION</h3>
@@ -51,10 +51,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=matekwa&show_icons=true&theme=vue-dark&bg_color=1E293B&text_color=ffffff&icon_color=4CAF50&title_color=4CAF50&border_color=1E293B&count_private=true&hide_border=false" width="45%" alt="Matekwa's Stats" />
 
-- 👨‍💻 **Tech Entrepreneur** with expertise in modern web architecture & cloud infrastructure
-- 🔍 **Cloud Solutions Architect** specializing in sustainable digital transformation
+- 👨‍💻 **Tech Professional** specializing in modern web architecture & cloud infrastructure
+- 🔍 **Cloud Solutions Architect** focused on sustainable digital transformation
 - 🧩 **Full-Stack Developer** focused on React, Node.js & cloud-native technologies
-- 💚 **Environmental Advocate** integrating green practices into tech business models
+- 💚 **Environmental Advocate** integrating green practices into tech solutions
 - 📚 **Continuous Learner** exploring AI advancements & sustainable cloud computing
 
 <br clear="all" />
@@ -127,7 +127,7 @@
 
 ## 🎙️ SPEAKING & COMMUNITY
 
-- 🤝 **Member** of Sustainable Digital Infrastructure Alliance
+- 🤝 Member of Sustainable Digital Infrastructure initiatives
 
 ## 📚 CONTINUOUS LEARNING
 
@@ -142,6 +142,7 @@
 <div align="center">
   <h3>💬 GET IN TOUCH</h3>
   <p>Let's discuss how we can make technology work for both people and planet</p>
+  <a href="https://skyfalke.com"><img src="https://img.shields.io/badge/Visit_Skyfalke-4CAF50?style=for-the-badge&logo=safari&logoColor=white" alt="Skyfalke" /></a>
   <a href="https://skyfalke.com/schedule-consultation"><img src="https://img.shields.io/badge/Schedule_a_Meeting-4CAF50?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Schedule a Meeting" /></a>
 </div>
 
