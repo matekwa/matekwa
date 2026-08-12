@@ -2,7 +2,7 @@
 
 Full-Stack Developer · Cloud Solutions Architect
 
-I build cloud-native, sustainable digital infrastructure for businesses across East Africa, spanning web development, DevOps, and enterprise cloud deployment.
+I build cloud-native, sustainable digital infrastructure for businesses across Africa, spanning web development, DevOps, and enterprise cloud deployment.
 
 **Connect:** [LinkedIn](https://linkedin.com/in/matekwaronald) · [Twitter/X](https://x.com/matekwaronald) · [Skyfalke](https://skyfalke.com) · [Email](mailto:matekwaronald@gmail.com)
 
