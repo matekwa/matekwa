@@ -31,4 +31,4 @@ I'm a Cloud Solutions Architect and Full-Stack Developer specializing in scalabl
 
 ## Get in Touch
 
-Interested in working together? [Visit Skyfalke](https://skyfalke.com) or [schedule a consultation](https://skyfalke.com/schedule-consultation).
+Interested in working together? [Visit Skyfalke](https://skyfalke.com) or [schedule a consultation](https://calendar.app.google/eb6iDQjfFbd2gjiL8).
